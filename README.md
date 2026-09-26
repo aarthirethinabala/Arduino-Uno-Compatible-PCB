@@ -1,4 +1,4 @@
-# Arduino-Uno-Compatible-PCB
+# Arduino Uno-Compatible PCB
 Custom Arduino Uno-compatible PCB designed in KiCad, including schematic design, component footprint assignment, PCB layout, routing, and 3D visualization.
 
 ## Project Status
