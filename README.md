@@ -47,7 +47,23 @@ The schematic and PCB layout have been completed and checked using KiCad's ERC a
 The final design includes routed connections, vias, copper zones, and the complete board outline.
 
 ## Project Images
-Images of the schematic, PCB layout, and 3D visualization will be added here.
+### Root Schematic
+![Root schematic](images/root-schematic.png)
+
+### Headers Schematic
+![Headers schematic](images/headers-schematic.png)
+
+### Power Schematic
+![Power schematic](images/power-schematic.png)
+
+### ATmega328P-PU Schematic
+![ATmega328P schematic](images/atmega328p-schematic.png)
+
+### PCB Layout
+![PCB layout](images/pcb-layout.png)
+
+### 3D View
+![PCB 3D view](images/pcb-3d-view.png)
 
 ## What I Learned
 - Schematic design and ERC checking
